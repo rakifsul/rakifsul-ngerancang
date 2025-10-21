@@ -28,4 +28,4 @@ Repositori ini berisi kumpulan rancangan home network RAKIFSUL.
 
 ## Penutup
 
-Jika konten ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info).
+Jika konten ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info). Traktiran Anda membantu saya untuk tetap melakukan update pada konten ini.
