@@ -26,6 +26,6 @@ Repositori ini berisi kumpulan rancangan home network RAKIFSUL.
 - [Gawir Lake 00](konten/Network/Gawir-Lake-00.md)
 - [Gawir Lake 01](konten/Network/Gawir-Lake-01.md)
 
-## Penutup
+## Link untuk Memberi Saya Uang
 
-Jika konten ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info). Traktiran Anda membantu saya untuk tetap melakukan update pada konten ini.
+Ini adalah [Link untuk Memberi Saya Uang](https://karyakarsa.com/rakifsul/info).
