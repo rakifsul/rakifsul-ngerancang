@@ -1,4 +1,4 @@
-# Daftar Hardware dari Home Network Rancangan RAKIFSUL
+# Detail Homelab Rancangan RAKIFSUL
 
 Repositori ini berisi kumpulan rancangan home network RAKIFSUL.
 

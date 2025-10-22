@@ -6,7 +6,7 @@ TEKS_DIR="$BASE_DIR/konten"
 README_FILE="$BASE_DIR/README.md"
 
 # Header untuk README
-echo "# Daftar Hardware dari Home Network Rancangan RAKIFSUL" > "$README_FILE"
+echo "# Detail Homelab Rancangan RAKIFSUL" > "$README_FILE"
 echo "" >> "$README_FILE"
 echo "Repositori ini berisi kumpulan rancangan home network RAKIFSUL." >> "$README_FILE"
 echo "" >> "$README_FILE"
